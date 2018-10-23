@@ -13,7 +13,7 @@
 
 	<body>
 
-	<p>Deploy script for (Put Your Name Here)</p>
+	<p>Deploy script for (Katelyn Mangold)</p>
 
 		<pre>
 
